@@ -1,0 +1,8 @@
+streamlit~=1.38.0
+mediapipe~=0.10.14
+numpy~=2.1.1
+requests~=2.32.3
+pandas~=2.2.2
+pillow~=10.4.0
+pyttsx3~=2.98
+twilio~=9.3.2
